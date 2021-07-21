@@ -30,7 +30,7 @@
 
      - 팀원 유니티 2명 전처리 및 모델구축 1명
 
-[https://github.com/Forevernewvie/2019_2_Project](https://github.com/Forevernewvie/2019_2_Project)
+       [https://github.com/Forevernewvie/2019_2_Project](https://github.com/Forevernewvie/2019_2_Project)
 
 - KIT 학습 공동체 2019.09. ~ 2019.12.
 
