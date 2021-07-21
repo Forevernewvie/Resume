@@ -4,7 +4,7 @@
 
 안녕하세요😀   
 
-안드로이드 개발자 최재빈입니다.
+📱안드로이드 개발자 최재빈입니다.
 
 졸업 프로젝트 도중 처음으로 안드로이드 모바일 프로그래밍을 접하게 되었고 흥미를 붙여 꾸준히 해오고 있습니다.
 
@@ -30,7 +30,7 @@
 
      - 팀원 유니티 2명 전처리 및 모델구축 1명
 
-       [https://github.com/Forevernewvie/2019_2_Project](https://github.com/Forevernewvie/2019_2_Project)
+[GitHub - Forevernewvie/2019_2_Project: Similar Sachunsung](https://github.com/Forevernewvie/2019_2_Project)
 
 - KIT 학습 공동체 2019.09. ~ 2019.12.
 
@@ -42,7 +42,7 @@
 
 📭  dlfjs351@gmail.com 
 
-📞  010-**** - ****
+📞  010-2620-5043
 
   
 
@@ -66,6 +66,20 @@
 
 [버티자 존버 (Android)](https://www.notion.so/Android-461ceb9d10974dcea999e306904e107e)
 
-[Skills](https://www.notion.so/77eeab259b55489d9d095457414ce201)
+## 📚Skills
+
+---
+
+- Python
+
+    flask 서버 구축, 자연어 처리 & 데이터 전처리, 알고리즘 풀이에 이용
+
+- JAVA & Kotlin
+
+    안드로이드 개발 주력 언어
+
+- MySQL
+
+    DB가 필요할 시 ERD 설계를 해서 테이블을 만든 후 사용하는 정도
 
 # 😄 감사합니다.
